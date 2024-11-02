@@ -1,16 +1,16 @@
-## Hi there 👋
+Hi, I'm AYsaran 👋
+About Me
+I'm an Electrical and Electronic Engineer with a passion for designing innovative solutions that bridge the gap between electronics and real-world applications. With a Bachelor's degree in Electrical and Electronics Engineering from [Anna University], I have hands-on experience in circuit design, embedded systems, and power electronics.
 
-<!--
-**AYsaran/AYsaran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills
+Circuit Design: Expertise in designing and analyzing analog and digital circuits.
 
-Here are some ideas to get you started:
+Embedded Systems: Proficient in microcontroller programming (Arduino, PIC, STM32).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Power Electronics: Knowledge of inverters, converters, and motor control.
+
+Software: Skilled in MATLAB, Simulink, AutoCAD, and various EDA tools.
+
+Programming Languages: Proficient in C, C++, Python, and VHDL.
+
+Projects
