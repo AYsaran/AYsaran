@@ -17,3 +17,5 @@ Software: Skilled in MATLAB, Simulink, AutoCAD, and various EDA tools.
 Programming Languages: Proficient in C, C++, Python, and VHDL.
 
 Projects📋:
+ 1. Wireless car charging system While drive and parking the car
+ Overview: The wireless car charging system aims to eliminate the need for physical connections in electric vehicle (EV) charging. Utilizing electromagnetic induction, this system transfers energy from a charging pad to an EV’s receiver pad, ensuring efficient and convenient charging.
